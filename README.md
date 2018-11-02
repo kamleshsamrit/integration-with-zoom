@@ -1,7 +1,7 @@
 # integration-with-zoom
 Integration with Zoom Meetings ans Webinars using java
 
-# Getting started
+## Getting started
 The Zoom API allows developers to safely and securely access information from Zoom. You can use this API to build private services or public applications on Zoom marketplace. If you want to make a private service or application please visit http://developer.zoom.us/me/ to get your key. If you plan on making a public application, please visit https://marketplace.zoom.us/ to register your app.
 
 ## Prerequisites
