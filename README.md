@@ -4,12 +4,12 @@ Integration with Zoom Meetings ans Webinars using java
 # Getting started
 The Zoom API allows developers to safely and securely access information from Zoom. You can use this API to build private services or public applications on Zoom marketplace. If you want to make a private service or application please visit http://developer.zoom.us/me/ to get your key. If you plan on making a public application, please visit https://marketplace.zoom.us/ to register your app.
 
-# Prerequisites
+## Prerequisites
 * Java IDE (Ex: IntelliJ Idea)
 * Java 8
 * Stripe Account
 
-# Create Zoom App
+## Create Zoom App
 You need to create app on zoom to access REST APIs from Zoom
 * Visit https://marketplace.zoom.us/develop/create to create new app
 * After createing app you will get Client Id and Client Secret
@@ -17,6 +17,7 @@ You need to create app on zoom to access REST APIs from Zoom
 * After completeing app information please select scopes from dropdowm
 And you are ready to make api calls now.
 
+## Create methods to make API calls
 ###### I have written code using Java to make REST API calls
 > please see ZoomUtils.java
 
